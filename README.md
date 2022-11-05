@@ -45,6 +45,7 @@ Query > donald trump won last nights presidential debate according to snap onlin
  > he is a liar
  > trump needs to be president
  
+ ```
  
  ### Results After Training One Epoch Using Pre-defined Seeds
  
