@@ -44,3 +44,10 @@ Query > donald trump won last nights presidential debate according to snap onlin
  > he is not a racist
  > he is a liar
  > trump needs to be president
+ 
+ 
+ ### Results After Training One Epoch Using Pre-defined Seeds
+ 
+ ![Screenshot 2022-11-05 at 2 30 51 PM](https://user-images.githubusercontent.com/95064358/200107041-54e68a83-0f10-41ad-91e1-819814dba15a.png)
+
+ 
