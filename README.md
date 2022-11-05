@@ -60,5 +60,18 @@ Query > donald trump won last nights presidential debate according to snap onlin
  > he was a good time
  
  ```
+ ### Results for Marx-related Seeds
+ 
+ ```
+ Query > What is the philosophy of Marx?
+ > i am so excited
+ > i dont want to be so excited for you 
+ > i dont know it is so bad and i am in this   
+Query > How is your buddy Engels, Marx?
+ > i think i am going for that one   
+ > i am so good for that 
+ > i think i am going to get a new one
+ 
+ ```
 
  
