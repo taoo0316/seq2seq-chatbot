@@ -74,4 +74,16 @@ Query > How is your buddy Engels, Marx?
  
  ```
 
+ ## Results Using Marx-related Movie Lines
  
+ ```
+ Query > What is the philosophy of Marx?
+ > i know that was the best thing i have to go
+ > i think it is so cute 
+ > i am going to get it to the debate  
+Query > How is your buddy Engels, Marx?
+ > i think i was so excited for that 
+ > i think that was a great time
+ > i think i have no one
+
+```
