@@ -1,7 +1,7 @@
-EN_WHITELIST = '0123456789abcdefghijklmnopqrstuvwxyz ' # space is included in whitelist
-EN_BLACKLIST = '!"#$%&\'()*+,-./:;<=>?@[\\]^_`{|}~\''
+EN_WHITELIST = 'abcdefghijklmnopqrstuvwxyz ' # space is included in whitelist
+EN_BLACKLIST = '0123456789!"#$%&\'()*+,-./:;<=>?@[\\]^_`{|}~\''
 
-FILENAME = 'data/chat.txt'
+FILENAME = 'compiled-marx-cleaned.txt'
 
 limit = {
         'maxq' : 20,
@@ -83,7 +83,7 @@ def filter_data(sequences):
     filtered_q, filtered_a = [], []
     raw_data_len = len(sequences)//2
 
-    for i in range(0, len(sequences), 2):
+    for i in range(0, len(sequences) - 1, 2):
         qlen, alen = len(sequences[i].split(' ')), len(sequences[i+1].split(' '))
         if qlen >= limit['minq'] and qlen <= limit['maxq']:
             if alen >= limit['mina'] and alen <= limit['maxa']:

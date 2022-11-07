@@ -58,7 +58,7 @@ if __name__ == "__main__":
 
     src_vocab_size = tgt_vocab_size = src_vocab_size + 2
 
-    num_epochs = 1
+    num_epochs = 50
     vocabulary_size = src_vocab_size
     
 
@@ -94,8 +94,10 @@ if __name__ == "__main__":
     optimizer = tf.optimizers.Adam(learning_rate=0.001)
     model_.train()
 
-    seeds = ["What is the philosophy of Marx?",
-                 "How is your buddy Engels, Marx?"]
+    seeds = ["What is your view of communism?",
+            "What is your view of capitalism?",
+            "What is the philosophy of Marx?",
+            "How is your buddy Engels, Marx?"]
     for epoch in range(num_epochs):
         model_.train()
         trainX, trainY = shuffle(trainX, trainY, random_state=0)
