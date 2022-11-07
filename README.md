@@ -44,22 +44,8 @@ Query > donald trump won last nights presidential debate according to snap onlin
  > he is not a racist
  > he is a liar
  > trump needs to be president
- 
  ```
  
- ### Results After Training One Epoch 
- 
- ```
-Query > happy birthday have a nice day
-> thank u so 
-> thank u  
-> thank god   
-Query > donald trump won last nights presidential debate according to snap online polls
- > he has a lie of the bus and he has a lot
- > he is not the best of the best
- > he was a good time
- 
- ```
  ### Results for Marx-related Seeds
  
  ```
@@ -71,7 +57,33 @@ Query > How is your buddy Engels, Marx?
  > i think i am going for that one   
  > i am so good for that 
  > i think i am going to get a new one
- 
- ```
+ Query > What is the philosophy of Marx?
+ > i know that was the best thing i have to go
+ > i think it is so cute 
+ > i am going to get it to the debate  
+Query > How is your buddy Engels, Marx?
+ > i think i was so excited for that 
+ > i think that was a great time
+ > i think i have no one
+```
 
- 
+### Results Trained on Marx-related Movies
+
+```
+Query > What is your view of communism?
+ > and enough framed white back hand      young
+ > and enough set blood time 
+ > and fuck blood back out  
+Query > What is your view of capitalism?
+ > and happy sits happy squeezes ass 
+ > and happy sits happy and on still wet fire  
+ > and fuck blood enough again time holding time   
+Query > What is the philosophy of Marx?
+ > you theyre ending blood life  it   
+ > you claim long life spiral shape starts talk this ends 
+ > you theyre gets clothes scrimmaging park   still walks up reads  heard 
+Query > How is your buddy Engels, Marx?
+ > boss squeezes sits beat hand sunglasses  
+ > boss gets sits bed checks hand turns it m street hand  took go get street   woman sign
+ > boss enters tries bed checks coming time  took it reads 
+```
