@@ -73,11 +73,11 @@ Query > How is your buddy Engels, Marx?
 Query > What is your view of communism?
  > and enough framed white back hand      young
  > and enough set blood time 
- > and fuck blood back out  
+ > and **** blood back out  
 Query > What is your view of capitalism?
- > and happy sits happy squeezes ass 
+ > and happy sits happy squeezes *** 
  > and happy sits happy and on still wet fire  
- > and fuck blood enough again time holding time   
+ > and **** blood enough again time holding time   
 Query > What is the philosophy of Marx?
  > you theyre ending blood life  it   
  > you claim long life spiral shape starts talk this ends 
