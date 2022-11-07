@@ -46,7 +46,7 @@ Query > donald trump won last nights presidential debate according to snap onlin
  > trump needs to be president
  ```
  
- ### Results for Marx-related Seeds
+ ### Results for Marx-related Seeds (1 epoch)
  
  ```
  Query > What is the philosophy of Marx?
@@ -67,7 +67,7 @@ Query > How is your buddy Engels, Marx?
  > i think i have no one
 ```
 
-### Results Trained on Marx-related Movies
+### Results Trained on Marx-related Movies (50 epochs)
 
 ```
 Query > What is your view of communism?
