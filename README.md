@@ -44,7 +44,6 @@ Query > donald trump won last nights presidential debate according to snap onlin
  > he is not a racist
  > he is a liar
  > trump needs to be president
- 
  ```
  
  ### Results After Training One Epoch 
@@ -58,7 +57,6 @@ Query > donald trump won last nights presidential debate according to snap onlin
  > he has a lie of the bus and he has a lot
  > he is not the best of the best
  > he was a good time
- 
  ```
  ### Results for Marx-related Seeds
  
@@ -71,12 +69,6 @@ Query > How is your buddy Engels, Marx?
  > i think i am going for that one   
  > i am so good for that 
  > i think i am going to get a new one
- 
- ```
-
- ## Results Using Marx-related Movie Lines
- 
- ```
  Query > What is the philosophy of Marx?
  > i know that was the best thing i have to go
  > i think it is so cute 
@@ -85,5 +77,4 @@ Query > How is your buddy Engels, Marx?
  > i think i was so excited for that 
  > i think that was a great time
  > i think i have no one
-
 ```
