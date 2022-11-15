@@ -55,7 +55,6 @@ Query > happy birthday have a nice day
  > thank god
 Query > donald trump won last nights presidential debate according to snap online polls
  > he has the lie of a bus and he has a lot
- > i think he was a racist
  > he is not the best of the best
  > he was a good time
  ```
