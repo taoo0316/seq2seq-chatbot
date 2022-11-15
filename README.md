@@ -46,6 +46,21 @@ Query > donald trump won last nights presidential debate according to snap onlin
  > trump needs to be president
  ```
  
+ ### Replication
+ 
+ ```
+Query > happy birthday have a nice day
+ > thank u so 
+ > thank u
+ > thank god
+Query > donald trump won last nights presidential debate according to snap online polls
+ > he has the lie of a bus and he has a lot
+ > i think he was a racist
+ > he is not the best of the best
+ > he was a good time
+ ```
+ 
+ 
  ### Results for Marx-related Seeds (1 epoch)
  
  ```
